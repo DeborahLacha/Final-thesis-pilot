@@ -1,0 +1,112 @@
+[
+ {
+  "rho": 0,
+  "reversal": 0.0,
+  "int_wins_marg": 0.0,
+  "cond_wins_cond": 0.0,
+  "mean_tau": 1.0,
+  "practical_reversal": 0.0,
+  "margin_marg": 0.0,
+  "margin_cond": 0.0
+ },
+ {
+  "rho": 0.1,
+  "reversal": 0.985,
+  "int_wins_marg": 1.0,
+  "cond_wins_cond": 0.985,
+  "mean_tau": 0.42333333333333345,
+  "practical_reversal": 0.005,
+  "margin_marg": 0.009366966027040964,
+  "margin_cond": 0.008433094982891739
+ },
+ {
+  "rho": 0.2,
+  "reversal": 0.985,
+  "int_wins_marg": 1.0,
+  "cond_wins_cond": 0.985,
+  "mean_tau": 0.3550000000000001,
+  "practical_reversal": 0.19,
+  "margin_marg": 0.029046725306157213,
+  "margin_cond": 0.02291874646397082
+ },
+ {
+  "rho": 0.3,
+  "reversal": 0.98,
+  "int_wins_marg": 1.0,
+  "cond_wins_cond": 0.98,
+  "mean_tau": 0.2800000000000001,
+  "practical_reversal": 0.555,
+  "margin_marg": 0.066084840589893,
+  "margin_cond": 0.054097665879431864
+ },
+ {
+  "rho": 0.4,
+  "reversal": 0.99,
+  "int_wins_marg": 1.0,
+  "cond_wins_cond": 0.99,
+  "mean_tau": 0.2583333333333334,
+  "practical_reversal": 0.765,
+  "margin_marg": 0.09985105144369509,
+  "margin_cond": 0.08251245362573026
+ },
+ {
+  "rho": 0.5,
+  "reversal": 1.0,
+  "int_wins_marg": 1.0,
+  "cond_wins_cond": 1.0,
+  "mean_tau": 0.24833333333333343,
+  "practical_reversal": 0.965,
+  "margin_marg": 0.15878623460223162,
+  "margin_cond": 0.13944489557339737
+ },
+ {
+  "rho": 0.6,
+  "reversal": 0.995,
+  "int_wins_marg": 1.0,
+  "cond_wins_cond": 0.995,
+  "mean_tau": 0.2216666666666667,
+  "practical_reversal": 0.99,
+  "margin_marg": 0.2181610913174587,
+  "margin_cond": 0.17731794323771163
+ },
+ {
+  "rho": 0.7,
+  "reversal": 1.0,
+  "int_wins_marg": 1.0,
+  "cond_wins_cond": 1.0,
+  "mean_tau": 0.21166666666666675,
+  "practical_reversal": 1.0,
+  "margin_marg": 0.3095465853823539,
+  "margin_cond": 0.24771059050231495
+ },
+ {
+  "rho": 0.8,
+  "reversal": 1.0,
+  "int_wins_marg": 1.0,
+  "cond_wins_cond": 1.0,
+  "mean_tau": 0.21833333333333338,
+  "practical_reversal": 0.995,
+  "margin_marg": 0.40127495101424754,
+  "margin_cond": 0.33635568618802003
+ },
+ {
+  "rho": 0.9,
+  "reversal": 1.0,
+  "int_wins_marg": 1.0,
+  "cond_wins_cond": 1.0,
+  "mean_tau": 0.2166666666666667,
+  "practical_reversal": 1.0,
+  "margin_marg": 0.5710444850821724,
+  "margin_cond": 0.490553814707291
+ },
+ {
+  "rho": 0.95,
+  "reversal": 1.0,
+  "int_wins_marg": 1.0,
+  "cond_wins_cond": 1.0,
+  "mean_tau": 0.23500000000000007,
+  "practical_reversal": 1.0,
+  "margin_marg": 0.6872228697930001,
+  "margin_cond": 0.5993804012103594
+ }
+]
